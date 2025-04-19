@@ -46,7 +46,7 @@ A modern iOS application that lets users browse, favorite, and download images u
 ---
 
 ### **Architecture & Tech Stack**
-
+- **Tools:** Xcode 16.3 and iOS 18 or later
 - **Language:** Swift
 - **UI:** SwiftUI
 - **Architecture:** MVVM (Model-View-ViewModel)
